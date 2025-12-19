@@ -1,0 +1,6 @@
+batch:2
+ANUSHA
+SRAVANTHI
+CHANDU
+RAJU
+
